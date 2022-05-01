@@ -2,7 +2,7 @@
 
 CrowdCoin is a project that I built by following tutorial on Udemy by Stephen Grider. You can find this tutorial here --> [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
 
-The idea behind the project is that users can create a campaign for their startup idea for example and then other users can contribute money to the campaign. And whenever the founder of the campaign needs certain amount of money for business expenses, the founder can create a request which has to be approved by at least half of the campaign contributors. Once the request is approved, specified amount of `ETH` will be transfered to the specified wallet address.
+The idea behind the project is that users can create a campaign for their startup idea for example and then other users can contribute money to the campaign. And whenever the founder of the campaign needs certain amount of money for business expenses, the founder can create a request which has to be approved by at least half of the campaign contributors. Once the request is approved, specified amount of `ETH` will be transferred to the specified wallet address.
 
 ## Tech Stack
 
