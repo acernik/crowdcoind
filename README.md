@@ -32,3 +32,15 @@ Once the app is running, go to `localhost:3000` and play around with the app, ha
 Make sure you have Metamask installed and that you have `ETH` on your account on `Rinkeby` test network.
 
 ## Screenshots
+This is the Home page of the app.
+![Screenshot 2022-05-01 at 15 30 30](https://user-images.githubusercontent.com/69387035/166146026-a3546547-14ec-4283-9516-c2df289ecaba.png)
+
+This is the campaign details page of the app.
+![Screenshot 2022-05-01 at 15 31 27](https://user-images.githubusercontent.com/69387035/166146053-39693db9-3eed-41fb-8048-c5ecb2f0f301.png)
+
+This is the page where you manage your campaign requests.
+![Screenshot 2022-05-01 at 15 32 14](https://user-images.githubusercontent.com/69387035/166146084-13a70ec1-7152-4f39-965e-453d3661dc77.png)
+
+On this page you can create a new campaign.
+![Screenshot 2022-05-01 at 15 33 17](https://user-images.githubusercontent.com/69387035/166146107-efe62edb-b7f9-4772-958a-3bbd029094e1.png)
+
